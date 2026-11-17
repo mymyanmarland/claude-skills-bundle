@@ -25,6 +25,8 @@
 
 Then start a new chat, type `/` and pick your skill.
 
+> **Prefer Google Drive?** Every skill is also on Drive — click **🔗 Drive** next to any skill in the [skills index](skills-index.md), or browse the whole bundle in the [Google Drive folder](https://drive.google.com/drive/folders/1DxSqI_rJDa22_9beJzyEim4rqngUfIG-).
+
 ![Terminal demo](assets/terminal.svg)
 
 > **Two files in every skill folder:** `SKILL.md` to *read* what the skill does, and
