@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto">
+      <path d="M0,0 L7,3 L0,6 Z" fill="#2b1055"/>
+    </marker>
+  </defs>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <rect x="20" y="45" width="250" height="150" rx="20" fill="#2b1055"/>
+    <text x="145" y="105" font-size="46" font-weight="bold" fill="#ffffff">1</text>
+    <text x="145" y="140" font-size="24" font-weight="bold" fill="#ffffff">Pick</text>
+    <text x="145" y="170" font-size="16" fill="#d9ccff">Browse the index</text>
+    <rect x="320" y="45" width="250" height="150" rx="20" fill="#d97757"/>
+    <text x="445" y="105" font-size="46" font-weight="bold" fill="#ffffff">2</text>
+    <text x="445" y="140" font-size="24" font-weight="bold" fill="#ffffff">Download</text>
+    <text x="445" y="170" font-size="16" fill="#ffe0d6">Click the .skill file</text>
+    <rect x="620" y="45" width="250" height="150" rx="20" fill="#00b894"/>
+    <text x="745" y="105" font-size="46" font-weight="bold" fill="#ffffff">3</text>
+    <text x="745" y="140" font-size="24" font-weight="bold" fill="#ffffff">Upload</text>
+    <text x="745" y="170" font-size="16" fill="#d2f5ec">Customize, Skills, +</text>
+    <rect x="920" y="45" width="250" height="150" rx="20" fill="#ffa751"/>
+    <text x="1045" y="105" font-size="46" font-weight="bold" fill="#ffffff">4</text>
+    <text x="1045" y="140" font-size="24" font-weight="bold" fill="#ffffff">Use</text>
+    <text x="1045" y="170" font-size="16" fill="#fff3e0">Type / and pick it</text>
+  </g>
+  <g stroke="#2b1055" stroke-width="3" stroke-linecap="round">
+    <line x1="272" y1="120" x2="318" y2="120" marker-end="url(#arrow)"/>
+    <line x1="572" y1="120" x2="618" y2="120" marker-end="url(#arrow)"/>
+    <line x1="872" y1="120" x2="918" y2="120" marker-end="url(#arrow)"/>
+  </g>
+  <g fill="#d97757">
+    <circle r="7" cx="0" cy="0"><animateMotion dur="2.4s" repeatCount="indefinite" path="M272,120 L318,120"/></circle>
+    <circle r="7" cx="0" cy="0"><animateMotion dur="2.4s" begin="0.8s" repeatCount="indefinite" path="M572,120 L618,120"/></circle>
+    <circle r="7" cx="0" cy="0"><animateMotion dur="2.4s" begin="1.6s" repeatCount="indefinite" path="M872,120 L918,120"/></circle>
+  </g>
+</svg>

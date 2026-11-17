@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="72" viewBox="0 0 900 72">
+  <rect width="900" height="72" rx="16" fill="#f6f3ff"/>
+  <text x="28" y="46" font-family="monospace" font-size="24" fill="#d97757">&#8250;</text>
+  <g font-family="monospace" font-size="24" fill="#2b1055">
+    <text x="52" y="46" opacity="0">I need a plot doctor for my novel...
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.8;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="52" y="46" opacity="0">Plan my marathon training week...
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.8;1" dur="12s" begin="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="52" y="46" opacity="0">Write a launch email that converts...
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.8;1" dur="12s" begin="8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <rect x="862" y="20" width="13" height="32" rx="2" fill="#d97757">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

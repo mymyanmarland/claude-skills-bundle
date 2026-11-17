@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130">
+  <g fill="#d97757">
+    <circle cx="330" cy="34" r="4"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="870" cy="30" r="5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="22" r="3"><animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="600" y="66" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#2b1055">Pick a skill. Make something great.</text>
+  <text x="600" y="98" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#8b7bb8">Claude Skills Bundle &#183; 2,015 skills &#183; not affiliated with Anthropic</text>
+</svg>
